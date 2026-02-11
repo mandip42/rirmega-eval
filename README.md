@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RIRMega-Eval (rirmega-eval)
 Production-grade benchmark infrastructure for room impulse response (RIR) and acoustic ML evaluation.
 
@@ -45,3 +46,6 @@ py -3.10 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -U pip
 pip install -e . -c constraints.txt
+=======
+# rirmega-eval
+>>>>>>> 81bce714f6ecad031173f91b560a05b3a69b3a3a
