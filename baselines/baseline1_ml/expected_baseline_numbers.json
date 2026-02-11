@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "task": "v1_param_estimation",
+  "split": "dev",
+  "note": "Populate after first official run. Keep as a regression reference for CI or release checks.",
+  "metrics": {
+    "mae_rt60_s": null,
+    "mae_edt_s": null,
+    "mae_drr_db": null,
+    "mae_c50_db": null,
+    "mae_c80_db": null,
+    "mae_ts_s": null,
+    "overall_score": null
+  }
+}
+

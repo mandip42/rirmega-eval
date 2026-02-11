@@ -1,0 +1,16 @@
+
+{
+  "schema_version": 1,
+  "created_utc": "1970-01-01T00:00:00Z",
+  "salt_hint": "local-file-salt",
+  "totals": {
+    "events": 0,
+    "eval_runs": 0,
+    "build_runs": 0,
+    "publish_runs": 0
+  },
+  "by_task": {},
+  "unique_users_approx": 0,
+  "unique_runs_approx": 0,
+  "recent": []
+}

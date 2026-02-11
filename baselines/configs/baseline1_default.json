@@ -1,0 +1,15 @@
+{
+  "model": {
+    "n_estimators": 300,
+    "max_depth": 18,
+    "min_samples_leaf": 2,
+    "random_state": 1337,
+    "n_jobs": -1
+  },
+  "features": {
+    "max_seconds": 2.0,
+    "stft_n_fft": 1024,
+    "stft_hop": 256
+  }
+}
+

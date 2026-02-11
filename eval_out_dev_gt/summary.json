@@ -1,0 +1,19 @@
+{
+  "task": "v1_param_estimation",
+  "split": "dev",
+  "n_gt": 22,
+  "n_pred": 22,
+  "outputs": {
+    "metrics_json": "eval_out_dev_gt\\metrics.json",
+    "per_slice_metrics_csv": "eval_out_dev_gt\\per_slice_metrics.csv",
+    "worst_examples_csv": "eval_out_dev_gt\\worst_examples.csv"
+  },
+  "metrics": {
+    "mae_rt60_s": 0.0,
+    "mae_drr_db": 0.0,
+    "mae_c50_db": 0.0,
+    "mae_c80_db": 0.0,
+    "overall_score": 0.0,
+    "n_scored": 22
+  }
+}

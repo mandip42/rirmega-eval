@@ -1,0 +1,9 @@
+
+Placeholder for benchmark overview diagram.
+
+Suggested content for the final figure:
+- Source datasets: RIR-Mega and RIR-Mega-Speech
+- Builder: produces RIRMega-Eval metadata + splits
+- Views: (1) parameter estimation (2) auralization consistency (3) robustness slices
+- Official evaluation: CLI/API + metrics outputs + submission hash
+

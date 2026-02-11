@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use RIRMega-Eval, please cite it as below."
+title: "RIRMega-Eval: Official Benchmark Infrastructure for RIR and Acoustic ML Evaluation"
+type: software
+authors:
+  - given-names: "Mandip"
+    family-names: "Goswami"
+    affiliation: "Amazon (Fulfillment Technologies & Robotics)"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.TODO_CONCEPT_DOI"
+repository-code: "https://github.com/mandip42/rirmega-eval"
+url: "https://huggingface.co/datasets/mandipgoswami/rirmega-eval"
+license: "Apache-2.0"
+keywords:
+  - room impulse response
+  - acoustics
+  - benchmark
+  - evaluation
+  - reverberation
+  - RT60
+  - DRR
+  - clarity
+preferred-citation:
+  type: software
+  title: "RIRMega-Eval: Official Benchmark Infrastructure for RIR and Acoustic ML Evaluation"
+  authors:
+    - given-names: "Mandip"
+      family-names: "Goswami"
+  year: 2026
+  doi: "10.5281/zenodo.TODO_VERSION_DOI"
+

@@ -1,0 +1,22 @@
+{
+  "task": "v1_param_estimation",
+  "split": "dev",
+  "n_gt": 22,
+  "n_pred": 250,
+  "submission_bundle_hash": "753cd14e5c52b4e1625dce8d61748a008f9e7e1bffe26056cfb8ddade15878d6",
+  "outputs": {
+    "metrics_json": "eval_out\\metrics.json",
+    "per_slice_metrics_csv": "eval_out\\per_slice_metrics.csv",
+    "worst_examples_csv": "eval_out\\worst_examples.csv"
+  },
+  "metrics": {
+    "mae_rt60_s": null,
+    "mae_edt_s": null,
+    "mae_drr_db": null,
+    "mae_c50_db": null,
+    "mae_c80_db": null,
+    "mae_ts_s": null,
+    "overall_score": null,
+    "n_scored": 22
+  }
+}
