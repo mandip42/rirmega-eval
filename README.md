@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # RIRMega-Eval (rirmega-eval)
 Production-grade benchmark infrastructure for room impulse response (RIR) and acoustic ML evaluation.
 
 This repository builds and publishes the **RIRMega-Eval** benchmark views and fixed splits from:
 - RIR-Mega (HF): https://huggingface.co/datasets/mandipgoswami/rirmega :contentReference[oaicite:0]{index=0}
 - RIR-Mega-Speech (HF): https://huggingface.co/datasets/mandipgoswami/rir-mega-speech :contentReference[oaicite:1]{index=1}
-- Target benchmark repo (HF): https://huggingface.co/datasets/mandipgoswami/rirmega-eval (created by you)
+- Target benchmark repo (HF): https://huggingface.co/datasets/mandipgoswami/rirmega-eval
 
 ## What you get
 1) **Dataset builder** producing HF-ready artifacts:
@@ -29,13 +28,6 @@ This repository builds and publishes the **RIRMega-Eval** benchmark views and fi
 4) **Baselines**:
 - Baseline 0: analytic heuristics
 - Baseline 1: small ML baseline (scikit-learn)
-
-5) **EB-1A grade adoption evidence hooks** (opt-in, privacy-safe):
-- Impact Ledger (`impact_ledger/ledger.json`)
-- Opt-in usage logging script
-- Governance + contribution process + reproducibility checks
-- Pinned deps and optional Dockerfile runtime
-
 ---
 
 ## Quickstart (Windows + PyCharm)
